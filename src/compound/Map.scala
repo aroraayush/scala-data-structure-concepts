@@ -1,0 +1,5 @@
+package compound
+
+object Map {
+
+}
