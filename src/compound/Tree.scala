@@ -1,5 +1,0 @@
-package compound
-
-object Tree {
-
-}
