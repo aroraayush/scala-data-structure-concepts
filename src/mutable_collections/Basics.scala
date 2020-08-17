@@ -1,4 +1,4 @@
-package collections
+package mutable_collections
 
 // Scala has 2 Collections:
 // 1. Immutable Collections - scala.collection.immutable

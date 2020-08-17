@@ -1,5 +1,5 @@
 package primitives
 
-object Any_AnyRef {
+object Tree {
 
 }
